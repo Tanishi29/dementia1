@@ -8,5 +8,5 @@ function setup() {
 function draw() {
   noStroke()
   fill(random(colorlist));
-  ellipse(mouseX, mouseY, 25, 25);
+  ellipse(mouseX, mouseY, 35, 25);
 }
